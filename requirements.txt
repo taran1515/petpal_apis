@@ -1,0 +1,7 @@
+Django==2.2.5
+djangorestframework==3.10.3
+django-import-export==1.2.0
+mysqlclient==1.4.4
+djangorestframework-simplejwt==4.3.0
+django-rest-auth==0.9.5
+django-allauth==0.40.0
